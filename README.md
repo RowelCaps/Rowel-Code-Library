@@ -25,11 +25,9 @@ In this repository, you will find a collection of code samples showcasing my ski
 
 In the Unity folder, you will find various code samples demonstrating different aspects of Unity game development, including:
 
-- Scripting in C#
 - Scene management
-- User interface development
 - Gameplay mechanics
-- and more...
+- Utility Scripts
 
 Each sample is contained within its own folder and accompanied by a README file providing additional information and instructions.
 
