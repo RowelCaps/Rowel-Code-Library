@@ -2,6 +2,8 @@
 
 Welcome to the sample code repository! This repository contains samples of my code in Unity, Unreal Engine, and web development.
 
+Note: The code given in each platform was used in different projects.
+
 ## Contents
 
 1. [Introduction](#introduction)
@@ -25,11 +27,10 @@ In this repository, you will find a collection of code samples showcasing my ski
 
 In the Unity folder, you will find various code samples demonstrating different aspects of Unity game development, including:
 
+-   Effects
 - Scene management
 - Gameplay mechanics
 - Utility Scripts
-
-Each sample is contained within its own folder and accompanied by a README file providing additional information and instructions.
 
 ## Unreal Engine
 
@@ -37,8 +38,6 @@ The Unreal Engine folder contains code samples showcasing my proficiency in Unre
 
 - Game mechanics implementation via c++
 - and other aspects of Unreal Engine development.
-
-Each sample is organized within its respective folder and accompanied by a README file for guidance.
 
 ## Web Development
 
